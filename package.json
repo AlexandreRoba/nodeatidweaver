@@ -4,7 +4,7 @@
   "description": "Node at IdWeaver",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node bin/www",
     "test": "mocha test/**/*.spec.js"
   },
   "repository": {

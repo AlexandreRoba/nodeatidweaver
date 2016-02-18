@@ -20,3 +20,5 @@
 + rewrite server split server and starting of the server
 + update npm test
 + Connect your project to codeship(build)
++ Make the build pass
++ configure automatic deployment on heroku
