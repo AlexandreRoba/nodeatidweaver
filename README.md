@@ -13,4 +13,10 @@
 + start it with node (What the hell is my url)
 + configure the Run of C9 to your server
 + let's configure npm for the start
-+ let's add the mocha and chai for the test
++ let's add mocha and chai (dev depen)
++ add a test folder
++ add a first test
++ test our server (add supertest )
++ rewrite server split server and starting of the server
++ update npm test
++ 
