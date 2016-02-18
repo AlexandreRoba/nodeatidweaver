@@ -19,4 +19,4 @@
 + test our server (add supertest )
 + rewrite server split server and starting of the server
 + update npm test
-+ 
++ Connect your project to codeship(build)
